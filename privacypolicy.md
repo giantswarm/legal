@@ -28,19 +28,20 @@ This website uses Google Analytics, a web analytics service provided by Google I
 
 ### Marketing automation
 
-Giant Swarm also uses marketing automation tools in order to make our offerings on the Internet more relevant and interesting for you. To this end we use technologies provided by Google, Twitter and Facebook. For the purpose and extent of the data collection and the further processing and use of the data and your rights in this connection and the setting possibilities you have in order to protect your privacy, particularly with regard to cookies and opting out, please see the following links and the information these providers have published:
+Giant Swarm also uses marketing automation tools in order to make our offerings on the Internet more relevant and interesting for you. To this end we use technologies provided by Google, Twitter, and Facebook. For the purpose and extent of the data collection and the further processing and use of the data and your rights in this connection and the setting possibilities you have in order to protect your privacy, particularly with regard to cookies and opting out, please see the following links and the information these providers have published:
 
 * Facebook Connect: [http://www.facebook.com/policy.php](http://www.facebook.com/policy.php)
 * Google Adwords: [http://www.google.com/intl/de/policies/privacy/](http://www.google.com/intl/de/policies/privacy/)
 * Twitter Advertising: [https://twitter.com/privacy](https://twitter.com/privacy)
 
-### Website optimization
+### Website optimization and support
 
-To ensure the tailored design and optimum performance of Giant Swarm’s website, Giant Swarm also uses website optimization tools. To this end we use technologies provided by Adobe, HubSpot, Optimizely and Wingify. For the purpose and extent of the data collection and the further processing and use of the data and your rights in this connection and the setting possibilities you have in order to protect your privacy, particularly with regard to cookies and opting out, please see the following links and the information these providers have published:
+To ensure the tailored design and optimum performance of Giant Swarm’s website and to provide you with timely support, Giant Swarm also uses website optimization as well as support tools. To this end we use technologies provided by Adobe, HubSpot, Optimizely, Intercom, and Wingify. For the purpose and extent of the data collection and the further processing and use of the data and your rights in this connection and the setting possibilities you have in order to protect your privacy, particularly with regard to cookies and opting out, please see the following links and the information these providers have published:
 
 * Adobe Typekit: [http://www.adobe.com/privacy/typekit.html](http://www.adobe.com/privacy/typekit.html)
 * HubSpot: [http://www.hubspot.com/legal/privacy-policy](http://www.hubspot.com/legal/privacy-policy)
 * Optimizely: [https://www.optimizely.com/privacy](https://www.optimizely.com/privacy)
+* Intercom: [http://docs.intercom.io/privacy](http://docs.intercom.io/privacy)
 * Visual Website Optimizer: [https://vwo.com/privacy-policy/](https://vwo.com/privacy-policy/)
 
 ## Security
