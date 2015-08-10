@@ -2,9 +2,9 @@
 
 Giant Swarm GmbH (“Giant Swarm”) is aware that the security of your personal information from the use of our website is an important concern. Giant Swarm respects your right to privacy and takes the protection of your personal information seriously. Therefore Giant Swarm would like you to know what data Giant Swarm maintains and what data Giant Swarm discards in connection with the use of our website. Giant Swarm also would like to inform you about the measures taken to protect your privacy.
 
-## Data collection 
+## Data collection
 
-Giant Swarm’s website can be used without disclosing your personal data. When you use Giant Swarm’s website, data may be stored for various technical reasons. This data may include the name of your internet service provider, the website that you used to link to our site, the websites that you visit from our site, the type and version of your browser and your IP-Address. This data could possibly lead to your identification, but there is no person-related utilization in this regard. From time to time the data may be used for statistical purposes whereas the individual user remains anonymous. 
+Giant Swarm’s website can be used without disclosing your personal data. When you use Giant Swarm’s website, data may be stored for various technical reasons. This data may include the name of your internet service provider, the website that you used to link to our site, the websites that you visit from our site, the type and version of your browser and your IP-Address. This data could possibly lead to your identification, but there is no person-related utilization in this regard. From time to time the data may be used for statistical purposes whereas the individual user remains anonymous.
 
 ## Collection and use of Personal data
 
@@ -19,7 +19,8 @@ You have the right to review and amend any personal data stored in Giant Swarm�
 
 ## Cookies / Use of Cookies
 
-Cookies are small text files that sent to your browser by a web server and stored on your data carrier. Using such cookies it is possible to recognize the visitor's browser in order to optimize the website and simplify its use. There are two different kinds of cookies: Session cookies are deleted when you exit the session. Temporary cookies will be stored for a longer period of time or indefinitely on the data carrier. Most browsers are set-up to accept these cookies automatically. In addition, you can deactivate the storing of cookies or adjust your browser to inform you before the cookie is stored on your computer. 
+Cookies are small text files that sent to your browser by a web server and stored on your data carrier. Using such cookies it is possible to recognize the visitor's browser in order to optimize the website and simplify its use. There are two different kinds of cookies: Session cookies are deleted when you exit the session. Temporary cookies will be stored for a longer period of time or indefinitely on the data carrier. Most browsers are set-up to accept these cookies automatically. In addition, you can deactivate the storing of cookies or adjust your browser to inform you before the cookie is stored on your computer.
+
 Most of the cookies Giant Swarm uses are session cookies which are deleted at the end of your browser session. These cookies are needed to keep your website visit consistent, i.e. to ensure that, for example, no renewed login is required and the preferences, which you have already entered in during the session, are maintained. Giant Swarm also uses permanent cookies to record information about visitors to the Giant Swarm Websites who repeatedly use the services of Giant Swarm and which are designed to help us continually improve the services Giant Swarm offers you. Data collected via cookies by Giant Swarm will not be used to determine the personal identity of the website visitor.
 
 ### Google Analytics

@@ -1,11 +1,11 @@
 # Acceptable Use Policy
 
 
-Your use of the Giant Swarm Service is subject to this Acceptable Use Policy (hereinafter "AUP"). Giant Swarm reserves the right to may change the AUP at any time without notice to you. It is your responsibility to keep up-to-date with and adhere to the AUP posted here. 
+Your use of the Giant Swarm Service is subject to this Acceptable Use Policy (hereinafter "AUP"). Giant Swarm reserves the right to may change the AUP at any time without notice to you. It is your responsibility to keep up-to-date with and adhere to the AUP posted here.
 
-You will not, and will not allow third parties, including your End Users, to: 
+You will not, and will not allow third parties, including your End Users, to:
 
-* Generate, distribute, publish or facilitate unsolicited mass email, promotions, advertisings or other solicitations (“spam”); 
+* Generate, distribute, publish or facilitate unsolicited mass email, promotions, advertisings or other solicitations (“spam”);
 * Use Giant Swarm Service for any unlawful, invasive, infringing, defamatory or fraudulent purpose (for example, this may include phishing, creating a pyramid scheme, impersonate another person or mirroring a website);
 * Intentionally distribute viruses, worms, defects, Trojan horses, corrupted files, hoaxes, or any other items of a destructive or deceptive nature;
 * Illegally transmit another’s intellectual property or other proprietary information without such owner’s or licensor’s permission;
