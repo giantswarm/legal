@@ -2,7 +2,7 @@
 
 ## 1. Scope of Terms
 
-1.1 These Terms of Service (hereinafter “Terms”) apply to Giant Swarm Websites and to any and all online resources, software, data feeds, materials, download areas, tools and interactive venues and all other services provided on Giant Swarm Websites, including any secure area services, the cloud computing service, add-ons and other components (hereinafter collectively “Giant Swarm Service”).
+1.1 These Terms of Service (hereinafter "Terms") apply to Giant Swarm Websites and to any and all online resources, software, data feeds, materials, download areas, tools and interactive venues and all other services provided on Giant Swarm Websites, including any secure area services, the cloud computing service, add-ons and other components (hereinafter collectively "Giant Swarm Service").
 
 1.2 "Giant Swarm" means Giant Swarm GmbH, Im Mediapark 5, 50670 Cologne, Germany and its subsidiaries or affiliates involved in providing the Giant Swarm Service.
 
@@ -14,7 +14,7 @@
 
 ## 2. Giant Swarm Account
 
-2.1 In order to access some features or main elements of the Giant Swarm Service, you will have to create a Giant Swarm Account (hereinafter “Account”).
+2.1 In order to access some features or main elements of the Giant Swarm Service, you will have to create a Giant Swarm Account (hereinafter "Account").
 
 2.2 When creating your Account, you must provide current, accurate and complete identification, contact and other information. You are responsible to maintain, keep current and update any registration data and other information you provide to Giant Swarm.
 
@@ -22,7 +22,7 @@
 
 2.4 You must notify Giant Swarm immediately of any breach of security or unauthorized use of your Account or of your password that you become aware of.
 
-2.5 Your Account has “hard” and “soft” usage limits, as further explained at [Quota & Limits](https://giantswarm.io/limits/) available at [https://giantswarm.io/limits/](https://giantswarm.io/limits/). You are not permitted to exceed the hard usage limits. Giant Swarm also reserves the right to determine and to enforce soft usage limits in its sole discretion.
+2.5 Your Account has "hard" and "soft" usage limits, as further explained at [Quota & Limits](https://giantswarm.io/limits/) available at [https://giantswarm.io/limits/](https://giantswarm.io/limits/). You are not permitted to exceed the hard usage limits. Giant Swarm also reserves the right to determine and to enforce soft usage limits in its sole discretion.
 
 ## 3. Use of Giant Swarm Service
 
@@ -30,9 +30,9 @@
 
 3.2 You agree to comply with the [Giant Swarm Acceptable Use Policy](https://giantswarm.io/acceptableuse/) (hereinafter "AUP") available at [https://giantswarm.io/acceptableuse/](https://giantswarm.io/acceptableuse/) which is incorporated herein by this reference.
 
-3.3 You are solely responsible for your web application that you create using the Giant Swarm Service and any source code written by you to be used with the Giant Swarm Service (hereinafter “Application”), projects and data (hereinafter collectively “Content”) and for making sure the Content complies with the AUP. Giant Swarm reserves the right to review the Content to ensure compliance with the AUP. You are also responsible for ensuring all users to whom you serve web pages via the Giant Swarm Service (hereinafter “End Users”) comply with your obligations under the AUP and the restrictions in these Terms.
+3.3 You are solely responsible for your web application that you create using the Giant Swarm Service and any source code written by you to be used with the Giant Swarm Service (hereinafter "Application"), projects and data (hereinafter collectively "Content") and for making sure the Content complies with the AUP. Giant Swarm reserves the right to review the Content to ensure compliance with the AUP. You are also responsible for ensuring all users to whom you serve web pages via the Giant Swarm Service (hereinafter "End Users") comply with your obligations under the AUP and the restrictions in these Terms.
 
-3.4 You will not, and will not allow third parties under your control (hereinafter “Third Parties”) to copy, modify, create a derivative work of, reverse engineer, decompile, translate, disassemble, or otherwise attempt to extract any or all of the source code of the Giant Swarm Service. You will also not, and will also not allow Third Parties to use the Giant Swarm Service for activities, such as the operation of nuclear facilities, air traffic control, or life support systems, where the use or failure of the Giant Swarm Service could lead to death, personal injury, or environmental damage (hereinafter “High Risk Activities”), and sublicense, resell, or distribute any or all of the Giant Swarm Service separate from any integrated Application. Furthermore, you will not and will not allow Third Parties to create multiple Applications, Accounts to simulate or act as a single Application, Account or otherwise access the Giant Swarm Service in a manner intended to avoid incurring fees.
+3.4 You will not, and will not allow third parties under your control (hereinafter "Third Parties") to copy, modify, create a derivative work of, reverse engineer, decompile, translate, disassemble, or otherwise attempt to extract any or all of the source code of the Giant Swarm Service. You will also not, and will also not allow Third Parties to use the Giant Swarm Service for activities, such as the operation of nuclear facilities, air traffic control, or life support systems, where the use or failure of the Giant Swarm Service could lead to death, personal injury, or environmental damage (hereinafter "High Risk Activities"), and sublicense, resell, or distribute any or all of the Giant Swarm Service separate from any integrated Application. Furthermore, you will not and will not allow Third Parties to create multiple Applications, Accounts to simulate or act as a single Application, Account or otherwise access the Giant Swarm Service in a manner intended to avoid incurring fees.
 
 3.5 You agree not to access the administrative interface of the Giant Swarm Service by any means other than through the interface that is provided by Giant Swarm in connection with the Giant Swarm Service, unless you have been specifically allowed to do so in a separate agreement with Giant Swarm, and not to engage in any activity that interferes with or disrupts the Giant Swarm Service or the servers and networks which are connected to the Giant Swarm Service.
 
@@ -46,7 +46,7 @@
 
 4.2 In the event that you become aware of any violation of the AUP by an End User of Applications, you shall immediately terminate such End User's account on your Application. Giant Swarm reserves the right to disable Applications in response to a violation or suspected violation of the AUP.
 
-4.3 In the event that you or one of your End User’s use the Giant Swarm Service in violation of the AUP, which could disrupt the Giant Swarm Services, other users or its End Users’ use of the Giant Swarm Services or the servers and networks which are connected to the Giant Swarm Service, or in the event that an unauthorized third party access to the Giant Swarm Service (hereinafter collectively “Emergency Security Issue”), Giant Swarm may automatically suspend the offending End User account, Application or Account. Suspension will be to the minimum extent required, and of the minimum duration, to prevent or eliminate the Emergency Security Issue. 
+4.3 In the event that you or one of your End User's use the Giant Swarm Service in violation of the AUP, which could disrupt the Giant Swarm Services, other users or its End Users' use of the Giant Swarm Services or the servers and networks which are connected to the Giant Swarm Service, or in the event that an unauthorized third party access to the Giant Swarm Service (hereinafter collectively "Emergency Security Issue"), Giant Swarm may automatically suspend the offending End User account, Application or Account. Suspension will be to the minimum extent required, and of the minimum duration, to prevent or eliminate the Emergency Security Issue.
 
 ## 5. Fees and Payment Terms
 
@@ -58,7 +58,7 @@
 
 5.4 All amounts stated in Giant Swarm Fees are excluding any applicable Value Added Tax, unless explicitly stated otherwise. The current rate of statutory Value Added Tax shall be invoiced and paid in addition to all fees.
 
-5.5 In case of late payments, the outstanding amount shall bear interest at the rate of 5 percent over the then current basic rate of interest of European Central Bank. Giant Swarm reserves all rights to claim further damages for delay. 
+5.5 In case of late payments, the outstanding amount shall bear interest at the rate of 5 percent over the then current basic rate of interest of European Central Bank. Giant Swarm reserves all rights to claim further damages for delay.
 
 5.6 Giant Swarm reserves the right to change its Giant Swarm Fees by notifying you at least 14 days before the beginning of the billing cycle in which such change will take effect. Changes to the Giant Swarm Fees will be also posted at Giant Swarm Websites.
 
@@ -108,7 +108,7 @@
 
 ## 10. Warranties
 
-10.1 The Giant Swarm Service is provided “as is” and “as available” and your use of Giant Swarm Service is at your sole risk. Giant Swarm makes no warranty or representation to you with respect to them.
+10.1 The Giant Swarm Service is provided "as is" and "as available" and your use of Giant Swarm Service is at your sole risk. Giant Swarm makes no warranty or representation to you with respect to them.
 
 10.2 In particular Giant Swarm does not represent or warrant to you that your use of the Service will meet your requirements, that your use of the Service will be uninterrupted, timely, secure or free from error, that any information obtained by you as a result of your use of the Giant Swarm Service will be accurate or reliable, and that defects in the operation or functionality of any software and data provided to you as part of the Giant Swarm Service will be corrected.
 
@@ -118,7 +118,7 @@
 
 11.1 Giant Swarm shall be liable under these Terms only in accordance with the provisions set out under Clauses 12.1.1 to 12.1.5.
 
-11.1.1 Giant Swarm shall be unrestrictedly liable for losses caused intentionally or with gross negligence by Giant Swarm, its legal representatives or senior executives and for losses caused intentionally by other assistants in performance. In respect of gross negligence of other assistants in performance Giant Swarm’s liability shall be as set forth in the provisions for simple negligence in Clause 12.1.5.
+11.1.1 Giant Swarm shall be unrestrictedly liable for losses caused intentionally or with gross negligence by Giant Swarm, its legal representatives or senior executives and for losses caused intentionally by other assistants in performance. In respect of gross negligence of other assistants in performance Giant Swarm's liability shall be as set forth in the provisions for simple negligence in Clause 12.1.5.
 
 11.1.2 Giant Swarm shall be unrestrictedly liable for death, personal injury or damage to health caused by the intent or negligence of Giant Swarm, its legal representatives or assistants in performance.
 
@@ -134,9 +134,9 @@
 
 ## 12. Idemnification
 
-12.1 To the fullest extent permitted by applicable law, you agree to indemnify and hold Giant Swarm, its subsidiaries, legal representatives or assistants in performance and licensors, suppliers and partners harmless from any claims and demands, including reasonable attorneys’ fees, made by any third party arising from or relating to your breach of the Terms, including a violation of the AUP, your use of and access to the Giant Swarm, your violation of applicable laws, rules or regulations in connection with the Giant Swarm Service, or your Content or your Application.
+12.1 To the fullest extent permitted by applicable law, you agree to indemnify and hold Giant Swarm, its subsidiaries, legal representatives or assistants in performance and licensors, suppliers and partners harmless from any claims and demands, including reasonable attorneys' fees, made by any third party arising from or relating to your breach of the Terms, including a violation of the AUP, your use of and access to the Giant Swarm, your violation of applicable laws, rules or regulations in connection with the Giant Swarm Service, or your Content or your Application.
 
-12.2 Giant Swarm will provide you with written notice of any third party’s allegation that preceded the legal proceedings of third party and will cooperate reasonably with you to resolve the third party’s allegation and proceedings.
+12.2 Giant Swarm will provide you with written notice of any third party's allegation that preceded the legal proceedings of third party and will cooperate reasonably with you to resolve the third party's allegation and proceedings.
 
 ## 13. Final Provisions
 
