@@ -42,7 +42,6 @@ To ensure the tailored design and optimum performance of Giant Swarm’s website
 * Adobe Typekit: [http://www.adobe.com/privacy/typekit.html](http://www.adobe.com/privacy/typekit.html)
 * HubSpot: [http://www.hubspot.com/legal/privacy-policy](http://www.hubspot.com/legal/privacy-policy)
 * Intercom: [http://docs.intercom.io/privacy](http://docs.intercom.io/privacy)
-* Visual Website Optimizer: [https://vwo.com/privacy-policy/](https://vwo.com/privacy-policy/)
 
 ## Security
 
