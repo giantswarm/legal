@@ -74,7 +74,7 @@
 
 6.5 Giant Swarm grants you a personal, worldwide, royalty-free, non-assignable and non-exclusive license to use the software provided to you by Giant Swarm as part of the Giant Swarm Service as provided to you by Giant Swarm for the sole purpose of enabling you to use and enjoy the benefit of the Giant Swarm Service, in the manner permitted by these Terms.
 
-6.6 Giant Swarm hereby grants you a limited, non-exclusive, royalty-free, non-transferable license, with no right to sub-license, to display the Giant Swarm trademarks and/or Giant Swarm logos as provided in and solely in accordance with the [Trademark Usage Guidelines](https://giantswarm.io/brandguidelines/) at [https://giantswarm.io/brandguidelines/](https://giantswarm.io/brandguidelines/) (NO IN HERE?) which are incorporated herein by this reference, for the sole purpose of promoting or advertising that you use the Giant Swarm Service.
+6.6 Giant Swarm hereby grants you a limited, non-exclusive, royalty-free, non-transferable license, with no right to sub-license, to display the Giant Swarm trademarks and/or Giant Swarm logos as provided in and solely in accordance with the [Trademark Usage Guidelines](https://giantswarm.io/brandguidelines/) at [https://giantswarm.io/brandguidelines/](https://giantswarm.io/brandguidelines/) which are incorporated herein by this reference, for the sole purpose of promoting or advertising that you use the Giant Swarm Service.
 
 6.7 If certain parts made available within the Giant Swarm Service are open-source they will be marked accordingly. Your use of those parts of the Giant Swarm Service is governed by an individual open source license, which constitutes a separate written agreement.
 
