@@ -60,4 +60,20 @@ d) your request logs that document the errors and corroborate your claimed outag
 
 ## 6. GS SLA Exclusions
 
-The Service Commitment does not apply to any unavailability, suspension or termination of a Kubernetes Master or Nodes or Cluster Storage, or any other Kubernetes Master or Kubelet or Cluster Storage performance issues: (i) that result from a suspension described in Section 4.1 of the TOS; (ii) caused by factors outside of our reasonable control, including any force majeure event or Internet access or related problems beyond the demarcation point of the Kubernetes Master, Nodes or Cluster Storage; (iii) that result from any actions or inactions of you or any third party; (iv) that result from your equipment, software or other technology and/or third party equipment, software or other technology (other than third party equipment within our direct control); (v) that result from failures of individual instances or volumes not attributable to GS Unavailability; (vi) that result from any maintenance as provided for pursuant to the Giant Swarm Terms; or (vii) arising from our suspension and termination of your right to use Giant Swarm Services in accordance with the Giant Swarm Terms (collectively, the "GS SLA Exclusion"). If availability is impacted by factors other than those used in our Monthly Uptime Percentage calculation, then we may issue a Service Credit considering such factors at our discretion.
+The Service Commitment does not apply to any unavailability, suspension or termination of a Kubernetes Master or Nodes or Cluster Storage, or any other Kubernetes Master or Kubelet or Cluster Storage performance issues:
+
+(i) that result from a suspension described in Section 4.1 of the TOS;
+
+(ii) caused by factors outside of our reasonable control, including any force majeure event or Internet access or related problems beyond the demarcation point of the Kubernetes Master, Nodes or Cluster Storage;
+
+(iii) that result from any actions or inactions of you or any third party;
+
+(iv) that result from your equipment, software or other technology and/or third party equipment, software or other technology (other than third party equipment within our direct control);
+
+(v) that result from failures of individual instances or volumes not attributable to GS Unavailability;
+
+(vi) that result from any maintenance as provided for pursuant to the Giant Swarm Terms; or
+
+(vii) arising from our suspension and termination of your right to use Giant Swarm Services in accordance with the Giant Swarm Terms (collectively, the "GS SLA Exclusion").
+
+If availability is impacted by factors other than those used in our Monthly Uptime Percentage calculation, then we may issue a Service Credit considering such factors at our discretion.
