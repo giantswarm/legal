@@ -10,11 +10,11 @@
 
 1.4 You can accept the Terms by accessing, browsing or using the Giant Swarm Service. Please review these Terms carefully before using the Giant Swarm Service. If you do not agree to the Terms, you should not use Giant Swarm Service.
 
-1.5 Giant Swarm reserves the right to make changes to these Terms and any other information contained on Giant Swarm Websites, including the functionality offered through the Giant Swarm Service, and any linked documents from time to time. Any modification of the Terms will be posted on Giant Swarm Websites or made available within the Giant Swarm Service. Unless otherwise noted by Giant Swarm, material changes to the Terms will become effective 7 days after they are posted, except if the changes apply to new functionality in which case they will be effective immediately. If you do not agree to these changes, you must stop using Giant Swarm Service. The same shall apply if you have purchased additional resources and/or services of Giant Swarm as set out in Clause 5 if the relevant changes to the Terms may be reasonably expected from you under consideration of your interests. Otherwise, the changes to the Terms will become effective at the start of the next billing interval if the changes have been posted 14 days in advance.
+1.5 Giant Swarm reserves the right to make changes to these Terms and any other information contained on Giant Swarm Websites, including the functionality offered through the Giant Swarm Service, and any linked documents from time to time. Any modification of the Terms will be posted on Giant Swarm Websites or made available within the Giant Swarm Service. Unless otherwise noted by Giant Swarm, material changes to the Terms will become effective 7 days after they are posted, except if the changes apply to new functionality in which case they will be effective immediately. If you do not agree to these changes, please stop using Giant Swarm Service. The same shall apply if you have purchased additional resources and/or services of Giant Swarm as set out in Clause 5 if the relevant changes to the Terms may be reasonably expected from you under consideration of your interests. Otherwise, the changes to the Terms will become effective at the start of the next billing interval if the changes have been posted 14 days in advance.
 
 ## 2. Giant Swarm Account
 
-2.1 In order to access some features or main elements of the Giant Swarm Service, you will have to create a Giant Swarm Account comprised of your personal Login details and an Organization running one or several clusters. (hereinafter "Account").
+2.1 In order to access some features or main elements of the Giant Swarm Service, you will have to create a Giant Swarm Account (hereinafter "Account").
 
 2.2 When creating your Account, you must provide current, accurate and complete identification, contact and other information. You are responsible to maintain, keep current and update any registration data and other information you provide to Giant Swarm.
 
@@ -68,7 +68,7 @@
 
 6.2 By submitting any ideas or comments about the Giant Swarm Service, including without limitation about improvements of the Giant Swarm Service or products of Giant Swarm, you agree that your disclosure is free of charge, unsolicited and without restriction and that you will not place Giant Swarm under any obligation. In this context you agree that Giant Swarm is free to use such ideas without any additional compensation to you, and/or to disclose such ideas on a non-confidential basis or otherwise to anyone.
 
-6.3 You also agree that Giant Swarm, in its sole discretion, may use your trade names, trademarks, service marks, logos, domain names and other distinctive brand features in presentations, marketing materials, customer lists, financial reports and website-listings (including links to your website) for the purpose of advertising or publicising your use of the Giant Swarm Service.
+6.3 You also agree that Giant Swarm, in its sole discretion, may use your trade names, trademarks, service marks, logos, domain names and other distinctive brand features in presentations, marketing materials, customer lists, financial reports and website-listings (including links to your website) for the purpose of advertising or publicizing your use of the Giant Swarm Service.
 
 6.4 Giant Swarm claims no ownership or control over any of your Content or Application(s). You retain copyright and any other rights you already hold in your Content and/or Application, and you are responsible for protecting those rights, as appropriate.
 

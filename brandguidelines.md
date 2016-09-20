@@ -4,9 +4,9 @@ We encourage you to use our [logo](http://styleguide.io/giantswarm/) when talkin
 
 ## Link to us
 
-We are especially thankful if you mention us in your services hosted on Giant Swarm. You can use the following code for this:
+We are especially thankful if you mention us in your services hosted on Giant Swarm during the free Alpha period. You can use the following code for this:
 
-`<a href="https://giantswarm.io/">Proudly hosted on Giant Swarm</a>`
+`<a href="https://giantswarm.io/">Proudly hosted on Giant Swarm Alpha</a>`
 
 ## Use our name responsibly
 

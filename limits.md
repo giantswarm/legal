@@ -1,14 +1,17 @@
 # Quotas and Limits
 
-In general, you are limited only by the amount of resources you can book within the system. What is inside of your cluster is your business.
+In general, we currently allow
 
-However, we suggest you contact us before going over the following limits:
+* an unlimited number of services
+* an unlimited number of components per service
 
-* 5 nodes per cluster
-* 32GB RAM per node
-* 50 pods per node
-* persistent storage of 100GB per volume
+However, we enforce these restrictions:
 
-We will adapt these soft limits as time goes on.
+* any service older than 7 days (from creation time) will be deleted
+  * except if you have configured any [custom domain name](https://docs.giantswarm.io/reference/swarm-json/#own-domain-name)
+* a maximum of 10 instances (containers) per component
+* a memory (RAM) limit of 512 MB per instance (container)
+* a storage size limit of 100 GB per volume
+* a log retention time limit of 14 days
 
 Please [contact us](/contact/) if you have any questions regarding this.

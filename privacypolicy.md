@@ -12,7 +12,7 @@ Giant Swarm collects personal data only when you provide it to us, through regis
 
 In order for the services of Giant Swarm to function, Giant Swarm needs to collect and process certain elements of your personal data in the course of a registration process. When you register, Giant Swarm asks for your name, mailing address, e-mail address and telephone number. If you use any of Giant Swarm’s paid services, Giant Swarm also collects your billing details such as your credit card or bank details for billing and payment purposes.
 
-The personal data Giant Swarm collects will only be used for the purpose of supplying you with the requested services or for other purposes for which you have given your consent, unless Giant Swarm is legally required to do so. Giant Swarm uses credit card or bank details information solely to check the financial qualifications and to collect payment for the services of Giant Swarm. Credit Card information is never stored or even read by Giant Swarm but handled directly by a qualified third party that handles the billing process. Giant Swarm also uses your e-mail address in order to offer you similar services of our own. You may object to this use of your e-mail address at any time without incurring any costs simply by clicking on the link at the end of our e-mails or send your objection to the following e-mail address [support@giantswarm.io](mailto:support@giantswarm.io).
+The personal data Giant Swarm collects will only be used for the purpose of supplying you with the requested services or for other purposes for which you have given your consent, unless Giant Swarm is legally required to do so. Giant Swarm uses credit card or bank details information solely to check the financial qualifications and to collect payment for the services of Giant Swarm. Giant Swarm also uses your e-mail address in order to offer you similar services of our own. You may object to this use of your e-mail address at any time without incurring any costs simply by clicking on the link at the end of our e-mails or send your objection to the following e-mail address [support@giantswarm.io](mailto:support@giantswarm.io).
 
 Your personal data will only be transferred to a third party if it is explicit regulated by law or you requested this at the time of registration. Giant Swarm will not sell or disclose your personal data to third parties without obtaining your prior consent unless it is explicit regulated by law or Giant Swarm is required to do so by law.
 You have the right to review and amend any personal data stored in Giant Swarm’s system if you believe it may be out of date or incorrect. You have also the right at any time to withdraw your consent to the use of your personal data in the future. In both cases, just send an e-mail to the following address [support@giantswarm.io](mailto:support@giantswarm.io) or contact Giant Swarm`s Data Security Officer at the address below. Please note that your right to the deletion of data may be limited by statutory retention periods, which we must observe. In addition, courts, law enforcement agencies or other authorities specified by statute can retrieve data or demand information on a statutory basis.
@@ -42,12 +42,6 @@ To ensure the tailored design and optimum performance of Giant Swarm’s website
 * Adobe Typekit: [http://www.adobe.com/privacy/typekit.html](http://www.adobe.com/privacy/typekit.html)
 * HubSpot: [http://www.hubspot.com/legal/privacy-policy](http://www.hubspot.com/legal/privacy-policy)
 * Intercom: [http://docs.intercom.io/privacy](http://docs.intercom.io/privacy)
-
-### Billing
-
-For billing purposes we have partnered with Stripe. 
-
-* Stripe: [https://stripe.com/privacy/](https://stripe.com/privacy/)
 
 ## Security
 
