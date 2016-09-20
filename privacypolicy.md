@@ -43,6 +43,12 @@ To ensure the tailored design and optimum performance of Giant Swarm’s website
 * HubSpot: [http://www.hubspot.com/legal/privacy-policy](http://www.hubspot.com/legal/privacy-policy)
 * Intercom: [http://docs.intercom.io/privacy](http://docs.intercom.io/privacy)
 
+### Billing
+
+For billing purposes we have partnered with Stripe. 
+
+* Stripe: [https://stripe.com/privacy/](https://stripe.com/privacy/)
+
 ## Security
 
 Giant Swarm uses technical and organizational security precautions to protect your data from manipulation, loss, destruction or access by unauthorized persons. Our security procedures are continuously revised based on new technological developments.
