@@ -12,13 +12,15 @@ Generally the definitions as made and used in the TOS apply.
 
 - "Monthly Uptime Percentage" is calculated by subtracting from 100% the percentage of minutes during the month in which the Giant Swarm Service, as applicable, was in the state of "GS Unavailable." Monthly Uptime Percentage measurements exclude downtime resulting directly or indirectly from any GS SLA Exclusion (defined below).
 
-- "Shared Cluster" is a system where you are running containers without exclusive hardware and virtual servers to power them but on a shared hardware.
+- “Kubernetes Master” is the controlling unit(s) of your Kubernetes Cluster.
 
-- "Private Cluster" is a system of hardware or virtual servers available in your cluster.
+- “Nodes” are the compute instances of your Kubernetes Cluster.
 
-- "Cluster Storage" is our persistent facility.
+- "Cluster Storage" is our persistent storage facility, providing you with long-term data storage.
 
-- "GS Unavailable" and "GS Unavailability" means that your Shared Cluster or Private Cluster cannot be reached from outside the GS network and due to reasons that are not in the sphere of the respective user.
+- "GS Node Unavailable" and "GS Node Unavailability" means that all your Nodes cannot be reached from outside of the GS network and due to reasons that are not in the sphere of the respective user.
+
+- "GS Master Unavailable" and "GS Master Unavailability" means that your Kubernetes Master cannot be reached from outside of the GS network and due to reasons that are not in the sphere of the respective user.
 
 - "GS Unavailable" and "GS Unavailability" in terms of Cluster Storage means that you were not able to connect to the storage from inside the GS Network and due to reasons that are not in the sphere of the respective user.
 
@@ -26,7 +28,8 @@ Generally the definitions as made and used in the TOS apply.
 
 ## 3. Service Commitments and Service Credits
 
-Service Credits are calculated as a percentage of the total charges paid by you for Giant Swarm Services affected for the monthly billing cycle in which the GS Unavailability occurred in accordance with the schedule below.
+
+For GS Node Unavailability, Service Credits are calculated as a percentage of the total charges paid by you for Giant Swarm Services affected for the monthly billing cycle in which the GS Node Unavailability occurred in accordance with the schedule below.
 
 | Monthly Uptime Percentage  | Service Credit Percentage |
 |----------------------------|---------------------------|
@@ -36,6 +39,7 @@ Service Credits are calculated as a percentage of the total charges paid by you 
 | Less than 99.80%           | 40%                       |
 | Less than 99.75%           | 50%                       |
 
+
 ## 4. Reporting GS Unavailability
 
 To receive a Service Credit, you must submit a claim by opening a case via an email to support@giantswarm.io or via our support tools. To be eligible, the credit request must be received by us within 10 days of the GS Unavailability and must include:
@@ -44,7 +48,7 @@ a) the words "SLA Credit Request" in the subject line;
 
 b) the dates and times of each GS Unavailability incident that you are claiming;
 
-c) the affected Private Cluster, Shared Cluster or Cluster Storage unit; and
+c) the affected Kubernetes Master and Nodes or Cluster Storage unit; and
 
 d) your request logs that document the errors and corroborate your claimed outage (any confidential or sensitive information in these logs should be removed or replaced with asterisks).
 
@@ -56,4 +60,4 @@ d) your request logs that document the errors and corroborate your claimed outag
 
 ## 6. GS SLA Exclusions
 
-The Service Commitment does not apply to any unavailability, suspension or termination of Shared Cluster or Private Cluster or Cluster Storage, or any other Shared Cluster or Private Cluster or Cluster Storage performance issues: (i) that result from a suspension described in Section 4.1 of the TOS; (ii) caused by factors outside of our reasonable control, including any force majeure event or Internet access or related problems beyond the demarcation point of Shared Cluster or Private Cluster or Cluster Storage; (iii) that result from any actions or inactions of you or any third party; (iv) that result from your equipment, software or other technology and/or third party equipment, software or other technology (other than third party equipment within our direct control); (v) that result from failures of individual instances or volumes not attributable to GS Unavailability; (vi) that result from any maintenance as provided for pursuant to the Giant Swarm Terms; or (vii) arising from our suspension and termination of your right to use Giant Swarm Services in accordance with the Giant Swarm Terms (collectively, the "GS SLA Exclusion"). If availability is impacted by factors other than those used in our Monthly Uptime Percentage calculation, then we may issue a Service Credit considering such factors at our discretion.
+The Service Commitment does not apply to any unavailability, suspension or termination of a Kubernetes Master or Nodes or Cluster Storage, or any other Kubernetes Master or Kubelet or Cluster Storage performance issues: (i) that result from a suspension described in Section 4.1 of the TOS; (ii) caused by factors outside of our reasonable control, including any force majeure event or Internet access or related problems beyond the demarcation point of the Kubernetes Master, Nodes or Cluster Storage; (iii) that result from any actions or inactions of you or any third party; (iv) that result from your equipment, software or other technology and/or third party equipment, software or other technology (other than third party equipment within our direct control); (v) that result from failures of individual instances or volumes not attributable to GS Unavailability; (vi) that result from any maintenance as provided for pursuant to the Giant Swarm Terms; or (vii) arising from our suspension and termination of your right to use Giant Swarm Services in accordance with the Giant Swarm Terms (collectively, the "GS SLA Exclusion"). If availability is impacted by factors other than those used in our Monthly Uptime Percentage calculation, then we may issue a Service Credit considering such factors at our discretion.
