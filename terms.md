@@ -14,9 +14,9 @@
 
 ## 2. Giant Swarm Account
 
-2.1 In order to access some features or main elements of the Giant Swarm Service, you will have to create a Giant Swarm Account compromised of your personal Login details and an Organization running one or several clusters. (hereinafter "Account").
+2.1 In order to access some features or main elements of the Giant Swarm Service, you will have to create a Giant Swarm Account comprised of your personal Login details and an Organization running one or several clusters. (hereinafter "Account").
 
-2.2 When creating your Account , you must provide current, accurate and complete identification, contact and other information. You are responsible to maintain, keep current and update any registration data and other information you provide to Giant Swarm.
+2.2 When creating your Account, you must provide current, accurate and complete identification, contact and other information. You are responsible to maintain, keep current and update any registration data and other information you provide to Giant Swarm.
 
 2.3 Access to and use of the Account is restricted to authorized users only. Therefore, it is important that you must keep your Account password secure and confidential. You are entirely responsible for maintaining the security of your password, identification and Account and for any and all activity that occurs under your Account. Particularly, you may be held liable for any losses and damages resulting due to someone else using your password or Account because of your breach of obligation under these Terms.
 
