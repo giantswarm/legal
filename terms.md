@@ -68,7 +68,7 @@
 
 6.2 By submitting any ideas or comments about the Giant Swarm Service, including without limitation about improvements of the Giant Swarm Service or products of Giant Swarm, you agree that your disclosure is free of charge, unsolicited and without restriction and that you will not place Giant Swarm under any obligation. In this context you agree that Giant Swarm is free to use such ideas without any additional compensation to you, and/or to disclose such ideas on a non-confidential basis or otherwise to anyone.
 
-6.3 You also agree that Giant Swarm, in its sole discretion, may use your trade names, trademarks, service marks, logos, domain names and other distinctive brand features in presentations, marketing materials, customer lists, financial reports and website-listings (including links to your website) for the purpose of advertising or publicizing your use of the Giant Swarm Service.
+6.3 You also agree that Giant Swarm, in its sole discretion, may use your trade names, trademarks, service marks, logos, domain names and other distinctive brand features in presentations, marketing materials, customer lists, financial reports and website-listings (including links to your website) for the purpose of advertising or publicising your use of the Giant Swarm Service.
 
 6.4 Giant Swarm claims no ownership or control over any of your Content or Application(s). You retain copyright and any other rights you already hold in your Content and/or Application, and you are responsible for protecting those rights, as appropriate.
 
