@@ -39,16 +39,6 @@ For GS Node Unavailability, Service Credits are calculated as a percentage of th
 | Less than 99.80%           | 40%                       |
 | Less than 99.75%           | 50%                       |
 
-For GS Master Unavailability, Service Credits are calculated as a percentage of the total charges paid by you for Giant Swarm Services affected for the monthly billing cycle in which the GS Master Unavailability occurred in accordance with the schedule below.
-
-| Monthly Uptime Percentage  | Service Credit Percentage |
-|----------------------------|---------------------------|
-| Less than 99.95%           | 10%                       |
-| Less than 99.90%           | 20%                       |
-| Less than 99.85%           | 30%                       |
-| Less than 99.80%           | 40%                       |
-| Less than 99.75%           | 50%                       |
-
 
 ## 4. Reporting GS Unavailability
 
