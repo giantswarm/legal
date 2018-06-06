@@ -115,11 +115,11 @@ will collect and process information on your visit to our website for its own bu
 
 For information on the legal basis of processing by the social media provider, please contact the respective social media provider or refer to their respective privacy policy:
 
-- Google: policies.google.com/privacy
+- Google: https://policies.google.com/privacy
 - Facebook: https://www.facebook.com/policy.php
-- Twitter: twitter.com/privacy
-- YouTube: policies.google.com/privacy
-- LinkedIn: linkedin.com/legal/privacy-policy
+- Twitter: https://twitter.com/privacy
+- YouTube: https://policies.google.com/privacy
+- LinkedIn: https://linkedin.com/legal/privacy-policy
 
 #### Legal basis for the processing & legitimate interests for the processing 
 
