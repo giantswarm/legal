@@ -190,11 +190,9 @@ Disabling these cookies will encumber the Sites' performance, and may make servi
 
 We use the following strictly necessary cookies:
 
-| Tool | Cookie Name | Type | Purpose | Expiry after |
-|------|-------------|------|---------|--------------|
-| N/A | GiantSwarmPrivacy | Permanent | Stores the visitor‘s accept/decline decision expressed in the context of the third party cookie/plugin consent banner mentioned earlier | 30 days |
-| N/A  | GiantSwarmSession | Permanent | Recognize the user and re-use session-based data, such as the email address entered into a form | 30 days |
+- **GiantSwarmPrivacy**: Type: Permanent, Expiry after: 30 days; Purpose: Stores the visitor‘s accept/decline decision expressed in the context of the third party cookie/plugin consent banner mentioned earlier.
 
+- **GiantSwarmSession**: Type: Permanent, Expiry after: 30 days; Purpose: Recognize the user and re-use session-based data, such as the email address entered into a form.
 
 #### Legal basis for storage and access to these cookies
 
@@ -242,26 +240,38 @@ To prevent processing by Google Analytics, you can install the Google Analytics 
 
 #### Further information
 
-Please see the Google Analytics privacy notice. 
+Please see the [Google Analytics privacy notice](policies.google.com/privacy) 
 
 The following cookies are used for the purposes of web analytics:
+#### Google Analytics
 
-| Tool | Cookie Name | Type | Purpose | Expiry after |
-|------|-------------|------|---------|--------------|
-| Google Analytics | _utmb _utmc | Session | These cookies work together to calculate how long a visit takes._utmb takes a timestamp of the exact moment when a visitor enters a site, while_utmc takes a timestamp of the exact moment when a visitor leaves a site. _utmb expires at the end of the session. _utmc waits 30 minutes, and then expires. _utmc waits 30 minutes for another page view to happen, and if it doesn't, it expires. | 30 min |
-| Google Analytics | _utmz | Permanent | This tracks where visitors came from. What search engine was used. What links were clicked on. What keywords were used. Where they were in the world when they accessed the website.| 6 months |
-| Google Analytics | _utmv | Permanent | This cookie stores custom variables for each visitor and allows us to use segmentation to better understand our visitors. It expires 2 years after last visit. | 2 years after last visit |
-| Google Analytics | _ga | Permanent | This cookie is used to distinguish between site visitors. It expires 2 years after last visit. | 2 years after last visit |
-| HubSpot | __hs_opt_out | Permanent | This cookie is used by the opt-in privacy policy to remember not to ask the visitor to accept cookies again. This cookie is set when you give visitors the choice to opt out of cookies. | 2 years after last visit |
-| HubSpot | __hs_do_not_track | Permanent | This cookie can be set to prevent the tracking code from sending any information to HubSpot. Setting this cookie is different from opting out of cookies, which still allows anonymized information to be sent to HubSpot. | 2 years after last visit
-| HubSpot | __hs_testcookie | Session | This cookie is used to test whether the visitor has support for cookies enabled. | Session
-| HubSpot | hs_ab_test | Permanent | This cookie is used to consistently serve visitors the same version of an A/B test page that they’ve seen before. | Session |
-| HubSpot | hs_lang_switcher_choice | Session | This cookie is used to consistently redirect visitors to the language version of a page in the language they’ve selected on this top-level private domain in the past | Session |
-| HubSpot | `<id>`_key | Permanent | When visiting a password-protected page, this cookie is set so future visits to the page from the same browser do not require login. The cookie name is unique for each password-protected page. | 30 minutes
-| HubSpot | __hstc | Permanent | The main cookie for tracking visitors. It contains the domain, utk (see below), initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session). | 2 years |
-| HubSpot | hubspotutk | Permanent | This cookie is used for to keep track of a visitor's identity. This cookie is passed to HubSpot on form submission and used when de-duplicating contacts. | 10 years
-| HubSpot | __hssc | Permanent | This cookie keeps track of sessions. This is used to determine if we should increment the session number and timestamps in the __hstc cookie. It contains the domain, viewCount (increments each pageView in a session), and session start timestamp. | 30 minutes |
-HubSpot | __hssrc | Session | Whenever HubSpot changes the session cookie, this cookie is also set. We set it to 1 and use it to determine if the visitor has restarted their browser. If this cookie does not exist when we manage cookies, we assume it is a new session. | Session
+- **Cookie Name:** _utmb _utmc. **Type:** Permanent. **Expiry after:** 30 minutes. **Purpose:** These cookies work together to calculate how long a visit takes._utmb takes a timestamp of the exact moment when a visitor enters a site, while_utmc takes a timestamp of the exact moment when a visitor leaves a site. _utmb expires at the end of the session. _utmc waits 30 minutes, and then expires. _utmc waits 30 minutes for another page view to happen, and if it doesn't, it expires.
+
+- **Cookie Name:** _utmz. **Type:** Permanent. **Expiry after:** 6 months. **Purpose:** This tracks where visitors came from. What search engine was used. What links were clicked on. What keywords were used. Where they were in the world when they accessed the website.
+
+- **Cookie Name:** _utmv. **Type:** Permanent. **Expiry after:** 2 years after last visit. **Purpose:** This cookie stores custom variables for each visitor and allows us to use segmentation to better understand our visitors.
+
+- **Cookie Name:** _ga. **Type:** Permanent. **Expiry after:** 2 years after last visit. **Purpose:** This cookie is used to distinguish between site visitors.
+
+#### HubSpot
+
+- **Cookie Name:** __hs_opt_out. **Type:** Permanent. **Expiry after:** 2 years after last visit. **Purpose:** This cookie is used by the opt-in privacy policy to remember not to ask the visitor to accept cookies again. This cookie is set when you give visitors the choice to opt out of cookies.
+
+- **Cookie Name:** __hs_do_not_track. **Type:** Permanent. **Expiry after:** 2 years after last visit. **Purpose:** This cookie can be set to prevent the tracking code from sending any information to HubSpot.
+
+- **Cookie Name:** __hs_testcookie. **Type:** Permanent. **Expiry after:** Session. **Purpose:** This cookie is used to test whether the visitor has support for cookies enabled.
+
+- **Cookie Name:** hs_lang_switcher_choice. **Type:** Permanent. **Expiry after:** Session. **Purpose:** This cookie is used to consistently redirect visitors to the language version of a page in the language they’ve selected on this top-level private domain in the past.
+
+- **Cookie Name:** `<id>`_key. **Type:** Permanent. **Expiry after:** 30 minutes. **Purpose:** When visiting a password-protected page, this cookie is set so future visits to the page from the same browser do not require login. The cookie name is unique for each password-protected page.
+
+- **Cookie Name:** __hstc. **Type:** Permanent. **Expiry after:** 2 years after last visit. **Purpose:** The main cookie for tracking visitors. It contains the domain, utk (see below), initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session).
+
+- **Cookie Name:** hubspotutk. **Type:** Permanent. **Expiry after:** 10 years after last visit. **Purpose:** This cookie is used for to keep track of a visitor's identity. This cookie is passed to HubSpot on form submission and used when de-duplicating contacts.
+
+- **Cookie Name:** __hssc. **Type:** Permanent. **Expiry after:** 30 minutes. **Purpose:** This cookie keeps track of sessions. This is used to determine if we should increment the session number and timestamps in the __hstc cookie. It contains the domain, viewCount (increments each pageView in a session), and session start timestamp.
+
+- **Cookie Name:** __hssrc. **Type:** Permanent. **Expiry after:** Session. **Purpose:** Whenever HubSpot changes the session cookie, this cookie is also set. We set it to 1 and use it to determine if the visitor has restarted their browser. If this cookie does not exist when we manage cookies, we assume it is a new session.
 
 #### Technically necessary?
 
