@@ -4,25 +4,26 @@
 
 ## Publisher
 
-Giant Swarm GmbH
-℅ Startplatz
-Im Mediapark 5
-50670 Cologne
-Germany
+<p>Giant Swarm GmbH<br>℅ Startplatz
+<br>Im Mediapark 5
+<br>50670 Cologne
+<br>Germany</p>
 
 Represented by Managing Directors: Timo Derstappen, Henning Lange, Oliver Thylmann
 
-Registered office of the Company: ℅ Startplatz, Im Mediapark 5, 50670 Cologne, Germany
+Registered office of the Company:
+
+<p>℅ Startplatz<br>Im Mediapark 5<br>50670 Cologne<br>Germany</p>
 
 Commercial Register: District Court Cologne HRB 81484
 
-VAT- Id. No.: DE295647085
+VAT- Id. No.: `DE295647085`
 
 Phone: [+49 221 96 30 13 82](callto:+4922196301382)
 
 E-mail: [support@giantswarm.io](mailto:support@giantswarm.io)
 
-See [Contact](/contact/) for ways to get in touch.
+See [Contact](/contact/) for more ways to get in touch.
 
 ## Limitation of liability for internal content
 
