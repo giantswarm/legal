@@ -19,7 +19,7 @@ Commercial Register: District Court Cologne HRB 81484
 
 VAT- Id. No.: `DE295647085`
 
-Phone: [+49 221 96 30 13 82](callto:+4922196301382)
+Phone: [+49 221 97 59 97 90](callto:+4922197599790)
 
 E-mail: [support@giantswarm.io](mailto:support@giantswarm.io)
 
